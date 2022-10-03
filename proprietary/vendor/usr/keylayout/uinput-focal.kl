@@ -1,0 +1,10 @@
+#
+# Focal Touch sensor driver
+#
+#
+
+# focal FT9391  "finger present"
+
+key 618   SYSTEM_NAVIGATION_UP
+key 619   SYSTEM_NAVIGATION_DOWN
+key 622   SYSTEM_NAVIGATION_LEFT
